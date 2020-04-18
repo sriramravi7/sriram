@@ -8,6 +8,9 @@ public static void main(String[] args) {
 	System.out.println("added");
 	System.out.println("add 2");
 	System.out.println("add3");
+	
+	System.out.println("new branch2");
+	System.out.println("branch 2");
 	System.out.println("second");
 }
 }
